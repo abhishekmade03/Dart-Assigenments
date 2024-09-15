@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "../01IfelseStatement"
+		},
+		{
+			"path": "../02ifelsestatement"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../04basicforLoop02"
+		},
+		{
+			"path": "../05whileLoop01"
+		},
+		{
+			"path": "../06WhileLoop02"
+		},
+		{
+			"path": "../07pattern-01"
+		},
+		{
+			"path": "../08pattern-02"
+		},
+		{
+			"path": "../lec11.dart"
+		}
+	]
+}
